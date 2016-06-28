@@ -1,21 +1,27 @@
 {
   "name": "improved-console",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Overrides the default console.log, console.eror, console.warn, console.info and adds a timstamp at the start",
-  "main": "./lib/log-color-date.js",
+  "main": "./lib/improved-console.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gostriksh/improved-console"
+    "url": "git+https://github.com/gostriksh/improved-console.git"
   },
   "keywords": [
     "console",
     "improved",
     "override"
   ],
-  "author": "Martijn van Duijneveldt <martijnvanduijneveldt@gmail.com> && Julien Brouzes <julien.brouzes1@gmail.com>",
+  "author": "Martijn van Duijneveldt <martijnvanduijneveldt@gmail.com>, Julien Brouzes <julien.brouzes1@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gostriksh/improved-console/issues"
   },
-  "homepage": "https://github.com/gostriksh/improved-console#readme"
+  "homepage": "https://github.com/gostriksh/improved-console#readme",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
