@@ -15,7 +15,7 @@ console.warn("console.warn")
 console.error("console.error")
 console.info("console.info")
 ```
-![Usage](https://raw.githubusercontent.com/martijnvanduijneveldt/improved-console/master/screenshots/usage.png)
+![Usage](https://raw.githubusercontent.com/gostriksh/improved-console/master/screenshots/usage.png)
 
 ## License
 [MIT](LICENSE)
